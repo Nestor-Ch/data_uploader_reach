@@ -1,0 +1,13 @@
+name: Data_uploader
+title: Data_uploader
+username:
+account: nestorcheryba-impactprojects
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10454763
+bundleId: 7902276
+url: https://nestorcheryba-impactprojects.shinyapps.io/Data_uploader/
+when: 1699438056.03815
+lastSyncTime: 1699438056.03816
+asMultiple: FALSE
+asStatic: FALSE
